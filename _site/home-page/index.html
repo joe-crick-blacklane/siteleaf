@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 
+application.scss
+
 <body>
 
 <div class="main-nav-wrapper">
@@ -28,40 +30,6 @@
             <div class="dropdown no-mobile">
                 <a class="btn-login" data-toggle="dropdown" data-qa="login" href="/en/sessions/new">Log in</a>
                 <div class="dropdown-login dropdown-login-right">
-                    <div class="errors"></div>
-                    <form id="new_session_dropdown" class="simple_form new_session" action="/en/sessions"
-                          accept-charset="UTF-8"
-                          method="post"><input name="utf8" value="✓" type="hidden">
-                        <input name="authenticity_token"
-                               value="GS5wG+H7vQP1XWOHGROdZ1PzLsu+awMbYr+6dgIh0YPluymleHTNHu2c17JUCgX+v6A9K5GUoxrVTg83gDXEbw=="
-                               type="hidden">
-                        <div
-                                class="input email required session_email label-hide">
-                            <label class="email required control-label"
-                                   for="session_email"><abbr title="required">*</abbr> Email</label><input
-                                autocorrect="off" autocapitalize="off" class="string email required" required="required"
-                                aria-required="true"
-                                placeholder="Email" name="session[email]" id="session_email" type="email"></div>
-                        <div class="input password required session_password label-hide">
-                            <label class="password required control-label"
-                                   for="session_password"><abbr
-                                    title="required">*</abbr> Password</label>
-                            <input class="password required"
-                                   required="required"
-                                   aria-required="true"
-                                   placeholder="Password"
-                                   name="session[password]"
-                                   id="session_password"
-                                   type="password"></div>
-                        <div class="auth-validation-msg hide">
-                            <p>Login details not valid</p>
-                        </div>
-                        <input name="commit" value="Log in" class="btn-main" type="submit">
-                        <div class="right">
-                            <a class="lost-password-link" href="/en/password_resets/new">Lost password?</a>
-                        </div>
-
-                    </form>
                 </div>
             </div>
 
