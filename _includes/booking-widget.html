@@ -1,3 +1,5 @@
+{% include content/test.yml %}
+
 <div class="container">
     <div class="row">
         <div class="span6">
@@ -64,9 +66,9 @@
 
         </div>
         <div class="span6 welcome-text">
-            <p class="welcome-text__title">{{ title }}</p>
-            <p class="welcome-text__subtitle">{{ subtitle }}</p>
-            <p class="welcome-text__description">{{ tagline }}</p>
+            <p class="welcome-text__title">{{ page.title }}</p>
+            <p class="welcome-text__subtitle">{{ page.subtitle }}</p>
+            <p class="welcome-text__description">{{ page.tagline }}</p>
         </div>
     </div>
 </div>
