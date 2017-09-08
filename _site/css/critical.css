@@ -5214,7 +5214,7 @@ header .blacklane-nav-logo {
     width: 100%;
     margin-top: 8px;
     margin-top: .5rem;
-    background-image: url(/images/shared/logo-blacklane-no-claim.svg);
+    background-image: url(https://www.blacklane.com/images/shared/logo-blacklane-no-claim.svg);
     background-size: 100%;
     display: block;
     text-indent: 9999px;
@@ -5224,7 +5224,7 @@ header .blacklane-nav-logo {
 .ie8 header .blacklane-nav-logo {
     margin-top: 12px;
     margin-top: .75rem;
-    background-image: url(/images/shared/logo-blacklane-no-claim.png);
+    background-image: url(https://www.blacklane.com/images/shared/logo-blacklane-no-claim.svg);
     background-repeat: no-repeat
 }
 
