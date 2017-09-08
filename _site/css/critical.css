@@ -180,6 +180,11 @@ td, th {
     padding: 0
 }
 
+.page-content {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
 .picker {
     font-size: 16px;
     text-align: left;
