@@ -8,4 +8,4 @@ tagline: Blacklane provides professional ground transportation at the lowest rat
 layout: home-page
 ---
 
-This is my awesome home page, y'all. w00t. Test.
+This is my awesome home page, y'all. w00t.
