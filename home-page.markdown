@@ -22,4 +22,4 @@ Field name:
 layout: home-page
 ---
 
-This is my awesome home page, y'all. w00t.
+This is my awesome home page, y'all. w00t. Here are my edits
