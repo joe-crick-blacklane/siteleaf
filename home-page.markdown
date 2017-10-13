@@ -1,7 +1,7 @@
 ---
 title: Home Page
 date: 2017-09-08 12:50:00 Z
-headertitle: BOOK YOUR TRANSFER TO MAUI
+headertitle: BOOK YOUR TRANSFER
 USPs: |2-
 
   All-inclusive rates
@@ -22,4 +22,4 @@ Field name:
 layout: home-page
 ---
 
-This is my awesome home page, y'all. w00t.
+This is my awesome home page, y'all. w00t. Here are my edits
