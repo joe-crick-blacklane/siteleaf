@@ -1,5 +1,4 @@
-table {
-    td {
-        border: 0;
-    }
+
+.confluenceTd {
+    border: 0;
 }
